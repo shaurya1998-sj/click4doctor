@@ -1,0 +1,35 @@
+<h1 title="android training">Android Training</h1>
+
+[caption id="attachment_210" align="alignleft" width="300"]<img class="size-medium wp-image-210" src="http://www.csitdesk.com/wp-content/uploads/2017/02/android-training-in-udaipur-cs-it-desk-300x157.png" alt="android-training-in-udaipur-cs-it-desk" width="300" height="157" /> android-training-in-udaipur-cs-it-desk[/caption]
+
+Android is Linux based open source  operating system user to run mobile devices , smart phone ,tablet computers .Android os was developed by Open Handset Alliance , and let by google and other companies .
+
+Android Application Development is based on java programming language so if you have basic understanding on java programming then it will be very fun to learn create android mobile application
+
+<h2 title"android training in udaipur">Job Role in Industry</h2>
+Mobile Application Developer in Android ,Android Application Developer 
+
+We cover all android application framework features during industrial training and provide real world application development enviournment .
+
+<table>
+	<tr>
+		<td>Android Overview</td>
+		<td>Android Enviournement Setup</td>
+		<td>Andrdoi Architecture </td>
+		<td>Application Component</td>
+		<td>Android Resources ,Activities ,Services</td>
+		<td>Android Brodecast Receiver </td>
+		<td>Android Content Provider </td>
+		<td>Android Fragments , Intents , Filters </td>
+	</tr>
+	<tr>
+		<td>Android UI Layouts , Controls ,Event Handling ,Style and Thems</td>
+		<td>Android Drag and Drop , Notification</td>
+		<td>Andrdoi Location Based Services  </td>
+		<td>Application Sending Mails , SMS , Calls </td>
+		<td>Android Application Publishing</td>
+		<td>Android Project  </td>
+		<td> Android Small Applications 25+ </td>
+		<td> </td>
+	</tr>
+</table>
